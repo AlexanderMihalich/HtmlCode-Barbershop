@@ -1,5 +1,5 @@
 # Layout-Barbershop
 
-Layout of the layout of the barbershop
+layout of the barbershop website with animations
 
 https://alexandermihalich.github.io/Layout-Barbershop
